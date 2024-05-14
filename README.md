@@ -10,7 +10,6 @@ i'm currently learning python Flask<br>i'm looking to collaborate on projects<br
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Karan-Verma1&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Karan-Verma1&theme=great-gatsby&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/toplangs/username=KaranVerma1&theme=greatgatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=2)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-Verma1&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
