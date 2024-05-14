@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python Flask<br>👯 I’m looking to collaborate on Projects<br>🤝 Actively seeking Software Developer roles. Take a look at my projects!<br>🤝 Collaborator and problem-solver. Looking to contribute my skills to a great team<br>
+🔭 I’m currently working on Python Flask<br>👯 I’m looking to collaborate on Projects<br>⚡ Actively seeking Software Developer roles. Take a look at my projects!<br>⚡ Collaborator and problem-solver. Looking to contribute my skills to a great team<br>
 
 
 ## 🌐 Socials:
